@@ -13,7 +13,7 @@ print("BULANIK MANTIK MPPT - CANLI DEMO")
 print("49 Kural | Mamdani Min-Max | Centroid")
 print("=" * 55)
 
-print("\nHoca istedigi hata degerlerini girebilir.")
+print("\nİstenilen hata degerleri.")
 print("Gecerli aralik: -1 ile +1")
 print("Cikmak icin q yazin.\n")
 
