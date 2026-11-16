@@ -4,8 +4,8 @@
 
 **Ders:** Bulanık Mantık  
 **Proje türü:** Dönem Projesi  
-**Öğrenci:** Yağmur [Soyadı]  
-**Öğrenci Numarası:** [Öğrenci numarası]  
+**Öğrenci:** Yağmur İnci Kuyucu  
+**Öğrenci Numarası:** 1316210078  
 **Teslim Tarihi:** 16 Kasım 2026
 
 ---
